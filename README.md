@@ -1,33 +1,13 @@
-Laravel4-lang
+Laravel 4 Türkçe Dil Dosyaları
 =============
 
-In this repository, you can find the lang files for the framework PHP, [Laravel 4](http://www.laravel.com).
+Buradaki `tr` dizinini uygulamanızın `app/lang` dizini içerisine ekleyiniz.
 
-Find more informations on http://caouecs.github.io/Laravel4-lang/
+Çeviride eksiklik ya da hata ile karşılaşırsanız lütfen ilave ediniz. (fork/pull-request)
 
-
-How add languages in my app ?
 ---
 
-To add languages in your application:
+#### Çeviride emeği geçenler (Çeviriye katılım sırasına göre)
 
-* clone this repository
-* or take the [zip file](https://github.com/caouecs/Laravel4-lang/archive/master.zip)
-* copy the folders of languages that you want, in *app/lang*
-
-
-How can I add a language in this project ?
----
-
-* fork this repository
-* create a directory with the short name of the language (ex: fr for French)
-* copy this three files of the english version with your translate
-* add a pull request in the branch *develop* of this repository, with the name of the language
-
-
-How can I fix a file ?
----
-
-* fork this repository
-* update the file
-* add a pull request in the branch *develop* of this repository, with the name of the language
+* [sineld](https://github.com/sineld)
+* [pellempus](https://github.com/pellempus)
